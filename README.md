@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [霓虹井盖：人行道的裂纹](stories/2026-02-11-sidewalk-crack.md)
 - [潮声回廊：未寄出的第十封信](stories/2026-02-11-tidal-corridor-letter-ten.md)
 - [雾镜织坊：第六十九个口袋](stories/2026-02-11-mirage-weaving-lab.md)
 - [云梯暗房：第三十三张底片](stories/2026-02-10-cloud-ladder-darkroom.md)
