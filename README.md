@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [雾镜织坊：第六十九个口袋](stories/2026-02-11-mirage-weaving-lab.md)
 - [云梯暗房：第三十三张底片](stories/2026-02-10-cloud-ladder-darkroom.md)
 - [灯塔城的回声华尔兹](stories/2026-02-09-lighthouse-waltz.md)
 - [月光茶馆：失眠画家的备忘录](stories/2026-02-09-moonlight-tea.md)
