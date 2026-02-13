@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [夜洗店的交换账本](stories/2026-02-13-laundry-truce.md)
 - [旷野回声驿站：第四十次下车](stories/2026-02-12-rest-stop-echo.md)
 - [霓虹井盖：人行道的裂纹](stories/2026-02-11-sidewalk-crack.md)
 - [潮声回廊：未寄出的第十封信](stories/2026-02-11-tidal-corridor-letter-ten.md)
