@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [潮箔巷的雾航台](stories/2026-02-21-mist-harbor.md)
 - [漂木灯港：夜航练习曲](stories/2026-02-21-driftwood-lantern.md)
 - [夜洗店的交换账本](stories/2026-02-13-laundry-truce.md)
 - [旷野回声驿站：第四十次下车](stories/2026-02-12-rest-stop-echo.md)
