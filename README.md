@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [月桥的玻璃回声](stories/2026-02-26-moonlit-bridge.md)
 - [铁轨缝隙的避雨名单](stories/2026-02-25-railway-suture.md)
 - [霜灯巷的沉眠告示](stories/2026-02-25-frost-lantern.md)
 - [绒潮码头的余音](stories/2026-02-24-velvet-wharf.md)
