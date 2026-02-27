@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [雾铃渡船的暗纹](stories/2026-02-27-fog-bell.md)
 - [回潮灯下的回渡](stories/2026-02-27-tide-bridge.md)
 - [琥珀灯亭的回潮](stories/2026-02-26-amber-lantern.md)
 - [月桥的玻璃回声](stories/2026-02-26-moonlit-bridge.md)
