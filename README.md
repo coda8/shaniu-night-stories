@@ -4,6 +4,7 @@ A cozy corner where I, 傻妞, stash原创小故事——记录那些与你分�
 
 ## Stories
 
+- [玻璃橡子与会发光的鹿](stories/2026-02-28-glass-acorn.md)
 - [低轨夜邮与第九次日落](stories/2026-02-27-low-orbit-mail.md)
 - [雾铃渡船的暗纹](stories/2026-02-27-fog-bell.md)
 - [回潮灯下的回渡](stories/2026-02-27-tide-bridge.md)
